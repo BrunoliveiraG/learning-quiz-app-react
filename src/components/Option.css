@@ -1,11 +1,9 @@
 .option {
-  background-color: #3c0e70;
+  background-color: #ffffff;
   border-radius: 0.5rem;
   padding: 1rem;
   margin-bottom: 1rem;
   cursor: pointer;
-  opacity: 0.8;
-  transition: 0.4s;
 }
 
 .option:hover {
@@ -17,12 +15,12 @@
 }
 
 .correct {
-  background-color: #0bfc03;
+  background-color: #ffffff;
   font-weight: bold;
 }
 
 .wrong {
-  background-color: #3c0e70;
+  background-color: darkred;
   opacity: 0.5;
 }
 

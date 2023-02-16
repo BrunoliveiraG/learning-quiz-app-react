@@ -1,38 +1,38 @@
 const data = [
   {
-    category: "HTML",
+    category: "História",
     questions: [
       {
-        question: "Qual tag cria um parágrafo?",
-        options: ["<p>", "<h1>", "<text>", "<ul>"],
-        answer: "<p>",
-        tip: "É uma tag de uma letra apenas",
+        question: "Qual cientista decifrou a criptografia do enigma?",
+            options: ["Alan Turing", "Albert Einstein", "Stephen Hawking", "Marie Curie"],
+            answer: "Alan Turing",
+        tip: "Conhecido como o pai da computação",
       },
       {
-        question: "Qual atributo adiciona um link para a tag a?",
-        options: ["alt", "href", "src", "link"],
-        answer: "href",
-        tip: "Hyperlink Reference",
+          question: "Ano em que foi criada a linguagem de programação FORTRAN?",
+        options: ["1968", "1965", "1955", "1972"],
+          answer: "1955",
+        tip: "FORTRAN foi uma das primeiras linguagens modernas de programação",
       },
       {
-        question: "As listas não ordenadas tem a tag de:",
-        options: ["<ol>", "<ul>", "<li>", "<list>"],
-        answer: "<ul>",
+          question: "Qual o significado da sigla COBOL?",
+          options: ["Computer Based Oriented Language", "Computer Business Oriented Language", "Common Basic Oriented Language", "Common Business Oriented Language"],
+          answer: "Common Business Oriented Language",
       },
       {
-        question: "Qual atributo deixa o input obrigatório?",
-        options: ["placeholder", "value", "required", "maxlength"],
-        answer: "required",
+        question: "Qual é o nome do primeiro computador eletrônico?",
+          options: ["Eniac ", "Mark 1", "Windows", "Notebook"],
+          answer: "Eniac ",
       },
       {
-        question: "A tag semântica indicada para rodapés é a:",
-        options: ["div", "main", "section", "footer"],
-        answer: "footer",
+        question: "Qual dessas linguagens não é uma linguagem orientada a objetos?",
+        options: ["Ruby", "Scala", "Jade", "Pascal"],
+        answer: "Pascal",
       },
     ],
   },
   {
-    category: "CSS",
+    category: "Matemática",
     questions: [
       {
         question: "Qual regra altera a cor de um elemento?",
@@ -53,7 +53,7 @@ const data = [
     ],
   },
   {
-    category: "JavaScript",
+    category: "Biologia",
     questions: [
       {
         question: "O que é Vanilla JavaScript?",
